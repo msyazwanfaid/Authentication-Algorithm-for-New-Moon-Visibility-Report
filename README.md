@@ -9,3 +9,5 @@ Example of the data is described in Input File. The Input file must be in csv fo
 Month, Year, Level of Light Pollution (LP) and Time Zone (TZ).
 
 The output will result in "Modified Schaefer Prediction Model" and "Crumey Prediction Model" column on the first row. On the next row, is the result of the Method, a visible prediction will result as "Moon Sighted", while an invisible moon sighting prediction will result as empty Non Value result. Thhe example of the output is described as Output File.
+
+Makesure to edit the input and output Path file under #Input Path and #Output Path.
